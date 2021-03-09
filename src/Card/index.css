@@ -1,0 +1,17 @@
+.card{
+    padding: 5px;
+    border-bottom: 1px solid #eee;
+    border-radius: 3px;
+    margin-bottom: 5px;
+    background-color: white;
+}
+
+.card textarea{
+    margin-bottom: 0px;
+    resize: none;
+}
+.card select{
+    margin-bottom: 0px;
+
+}
+
